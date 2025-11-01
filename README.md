@@ -1,9 +1,10 @@
+
 ---
 
-# 🐍 Django Journey -->  Chapter 1: Introduction & Setup
+# 🐍 Django Journey -->  Division in Chapters
 
 Welcome to my **Django Development Journey**!
-This repository documents my learning process and setup for starting with the **Django web framework** — a powerful and popular tool for building secure, scalable web applications using Python.
+This repository documents my learning process and setup for starting with the **Django web framework**, a powerful and popular tool for building secure, scalable web applications using Python.
 
 ---
 
